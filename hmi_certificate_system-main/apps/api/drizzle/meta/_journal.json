@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792004842012,
+      "tag": "0000_curved_tyger_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792390333419,
+      "tag": "0001_magical_steve_rogers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792394903636,
+      "tag": "0002_nasty_anthem",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792475968665,
+      "tag": "0003_certificate_event_recipient_unique",
+      "breakpoints": true
+    }
+  ]
+}
